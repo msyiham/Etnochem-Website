@@ -3562,19 +3562,19 @@ blockquote span{
     margin-bottom: 20px;
 }
 .widget-content h4{
-    color: #fff;
+    color: #0000;
 }
 .widget-content p{
-    color: #ddd;
+    color: #884A39;
 }
 .widget-content span{
-    color: #ddd;
+    color: #884A39;
     display: block;
 }
 .widget-content .widget-links{}
 .widget-content .widget-links li{}
 .widget-content .widget-links li a{
-    color: #ddd;
+    color: #884A39;
     line-height: 1.9;
 }
 .widget-content .widget-links li a:hover{
