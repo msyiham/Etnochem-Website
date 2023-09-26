@@ -1308,10 +1308,10 @@ ul.nav > li > a.active{
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 85%;
-    width: 432px;
-    height: 780px;
+    width: 332px;
+    height: 680px;
     right: 100px;
-    bottom: -105px;
+    bottom: -10px;
     animation-name: moc-animation;
     animation-duration: 2s;
     animation-iteration-count: infinite;
