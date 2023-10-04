@@ -857,7 +857,7 @@ ul.nav > li > a.active{
     position: absolute;
     left: 0;
     top: 140%;
-    border-radius: 2px;
+    border-radius: 10px;
     visibility: hidden;
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -868,6 +868,7 @@ ul.nav > li > a.active{
     box-shadow: 0px 50px 100px 0px rgba(64, 1, 4, 0.1), 0px -6px 0px 0px rgba(248, 99, 107, 0.004);
 }
 #mainmenu li:hover > ul{
+    border-radius: 10px;
     visibility: visible;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -886,7 +887,7 @@ ul.nav > li > a.active{
     font-family: 'Source Sans Pro', sans-serif;
     line-height: 45px;
     display: block;
-    padding: 0 15px;
+    padding: 10 15px;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: -0.2px;
@@ -895,6 +896,7 @@ ul.nav > li > a.active{
     transition: color 0.3s ease 0s, padding 0.3s ease 0s;
 }
 #mainmenu li > ul > li:hover a{
+    border-radius: 10px;
     background-color: #884A39;
     color: #fff;
 }
